@@ -2,7 +2,7 @@
 Name=Cursor
 Comment=Cursor
 Exec=/opt/netron/Netron-8.5.3.AppImage --no-sandbox
-Icon=/opt/pycharm-community-2022.3.3/bin/pycharm.png
+Icon=/opt/netron/icon.png
 Terminal=false
 Type=Application
 Categories=Development
