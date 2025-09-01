@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Cursor
-Comment=Cursor
+Name=Netron
+Comment=Netron
 Exec=/opt/netron/Netron-8.5.3.AppImage --no-sandbox
 Icon=/opt/netron/icon.png
 Terminal=false
